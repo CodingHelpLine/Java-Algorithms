@@ -10,4 +10,5 @@ It uses nested loops.
 The element A[0] is compared with A[1], Element A[1] with A[2], and so on until 
 the List or Array is sorted.  
 
-Benchmarking of algorith: Record time of execution, number of swaps and Comparisons.
+Benchmarking of the algorithm: Record time of execution, the number of swaps, and Comparisons.
+
