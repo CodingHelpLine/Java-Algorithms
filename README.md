@@ -1,5 +1,4 @@
 # Java Algorithms
-=======================================================================
 
 This repository will host all the Java tutorial codes made for the Youtube
 videos for algorithms implemented using Java Programming Language. 
