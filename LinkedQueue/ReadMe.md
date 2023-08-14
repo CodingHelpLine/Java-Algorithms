@@ -1,0 +1,3 @@
+## Java Linked Queue Implementation Tutorial - Java Data Structures and Algorithms. 
+
+A queue is an abstract data structure that is open on both ends. One end is used to insert or enqueue an element while the other end is used to remove or dequeue the element. there are various techniques to implement a Queue such as Linked List based queue or an array-based queue. The queue is a FIFO - First In First Out data structure.
