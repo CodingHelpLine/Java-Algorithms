@@ -1,0 +1,5 @@
+## Java Array-based Priority Queue Implementation
+
+### Introduction
+A Priority Queue is an abstract data structure that is open on both ends. This is a special type of Queue where data elements are arranged in order of their Priority. The Priority Queue Data Structure doesn’t conform to the standard Queue pattern of FIFO (First in First Out) because it serves the elements on the basis of their priority.  Each Element in the Priority Queue has a state called Priority that is used to manage the Queue in order of this feature. One end is used to insert or enqueue an element while the other is used to remove or dequeue the element. The Priority Queue elements are served on the basis of their Priority in the order of higher or lower priority based on the requirements of the application. Queue is a famous Linear Data Structure that is used in a variety of applications. It is mainly used to manage Data Flow and Tasks within an application. It is also used in Event-Driven simulations, priority tasks, and route scheduling. It is also used in Load Balancing and interrupt handling routines. 
+
